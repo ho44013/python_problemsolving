@@ -1,5 +1,7 @@
-https://steady-coding.tistory.com/260
+파이썬에서 모든 알파벳, 모든 숫자 하나의 객체로 만드는 방법
 
-못 푼거
+https://school.programmers.co.kr/learn/courses/4008/lessons/12729#note
 
-graph : 2146
+zip 활용 방법
+
+https://school.programmers.co.kr/learn/courses/4008/lessons/13318
